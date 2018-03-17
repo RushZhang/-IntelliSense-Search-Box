@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#mydiv {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -200px;
+	margin-top: -50px;
+}
+
+.mouseOver {
+	background: #708090;
+	color: #FFFAFA;
+}
+
+.mouseOut {
+	background: #FFFAFA;
+	color: #000000;
+}
